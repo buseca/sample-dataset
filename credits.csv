@@ -19,8 +19,8 @@ Id,YearOfDefault,PE/NPE,Debtor,Secured/Unsecured,GBV,LegalStatus,Corporate,Indiv
 18,2006,NPE,Williams,secured,100K-500K,C,Corp
 19,2008,NPE,Vander Planke,unsecured,0-10K,A,Corp
 20,2008,NPE,Masselmani,unsecured,100K-500K,A,Individual
-21,2008,NPE,Fynney,secured,35.0,D,Individual
-22,2011,PE,Beesley,secured,34.0,A,Individual
+21,2008,NPE,Fynney,secured,0-10K,D,Individual
+22,2011,PE,Beesley,secured,0-10K,A,Individual
 23,2011,PE,McGowan,unsecured,0-10K,D,Corp
 24,2011,PE,McGowan,secured,100K-500K,C,Corp
 25,2015,PE,Palsson,unsecured,0-10K,B,Corp
