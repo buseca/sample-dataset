@@ -1,7 +1,7 @@
 Id,YearOfDefault,PE/NPE,Debtor,Secured/Unsecured,GBV,LegalStatus,Corporate,Individual
 1,2003,PE,Braund,secured,0-10K,A,Corp
 2,2003,PE,Braund,secured,0-10K,A,Corp
-3,2003,NPE,Heikkinen,unsecured,10K-50K,B,Corp
+3,2003,PE,Heikkinen,secured,0-10K,A,Corp
 4,2003,PE,Heikkinen,secured,0-10K,A,Corp
 5,2003,PE,Allen,secured,50K-100K,A,Corp
 6,2003,NPE,Moran,secured,10K-50K,B,Corp
@@ -17,7 +17,7 @@ Id,YearOfDefault,PE/NPE,Debtor,Secured/Unsecured,GBV,LegalStatus,Corporate,Indiv
 16,2006,NPE,Hewlett,unsecured,0-10K,D,Corp
 17,2006,NPE,Rice,secured,50K-100K,D,Corp
 18,2006,NPE,Williams,secured,100K-500K,C,Corp
-19,2008,NPE,Vander Planke,unsecured,0-10K,A,Corp
+19,2008,PE,Vander Planke,secured,0-10K,A,Corp
 20,2008,PE,Masselmani,unsecured,100K-500K,A,Corp
 21,2008,NPE,Fynney,secured,0-10K,D,Individual
 22,2011,PE,Beesley,secured,0-10K,A,Individual
