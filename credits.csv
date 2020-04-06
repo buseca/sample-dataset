@@ -1,8 +1,8 @@
 Id,YearOfDefault,PE/NPE,Debtor,Secured/Unsecured,GBV,LegalStatus,Corporate,Individual
-1,2003,NPE,Braund,secured,0-10K,A,Corp
-2,2003,NPE,Braund,unsecured,10K-50K,A,Corp
+1,2003,PE,Braund,secured,0-10K,A,Corp
+2,2003,PE,Braund,secured,0-10K,A,Corp
 3,2003,NPE,Heikkinen,unsecured,10K-50K,B,Corp
-4,2003,PE,Heikkinen,unsecured,0-10K,C,Corp
+4,2003,PE,Heikkinen,secured,0-10K,A,Corp
 5,2003,PE,Allen,secured,50K-100K,A,Corp
 6,2003,NPE,Moran,secured,10K-50K,B,Corp
 7,2003,NPE,McCarthy,secured,0-10K,C,Individual
