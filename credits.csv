@@ -1,0 +1,30 @@
+Id;YearOfDefault;PE/NPE;Debtor;Secured/Unsecured;GBV;LegalStatus;Corporate/Individual
+1;2003;NPE;Braund, Mr. Owen Harris;secured;0-10K;A;Corp
+2;2003;NPE;Braund, Mr. Owen Harris;unsecured;10K-50K;A;Corp
+3;2003;NPE;Heikkinen, Miss. Laina;unsecured;10K-50K;B;Corp
+4;2003;PE;Heikkinen, Miss. Laina;unsecured;0-10K;C;Corp
+5;2003;PE;Allen, Mr. William Henry;secured;50K-100K;A;Corp
+6;2003;NPE;Moran, Mr. James;secured;10K-50K;B;Corp
+7;2003;NPE;McCarthy, Mr. Timothy J;secured;0-10K;C;Individual
+8;2005;NPE;McCarthy, Mr. Timothy J;secured;50K-100K;D;Individual
+9;2005;PE;McCarthy, Mr. Timothy J;unsecured;50K-100K;D;Corp
+10;2005;PE;Nasser, Mrs. Nicholas (Adele Achem);unsecured;14.00-10K;D;Corp
+11;2005;PE;Sandstrom, Miss. Marguerite Rut;unsecured;10K-50K;C;Corp
+12;2005;PE;Bonnell, Miss. Elizabeth;unsecured;50K-100K;A;Corp
+13;2005;PE;Saundercock, Mr. William Henry;secured;0-10K;A;Corp
+14;2006;NPE;Andersson, Mr. Anders Johan;secured;100K-500K;B;Corp
+15;2006;NPE;Vestrom, Miss. Hulda Amanda Adolfina;unsecured;10K-50K;B;Individual
+16;2006;NPE;Hewlett, Mrs. (Mary D Kingcome) ;unsecured;0-10K;D;Corp
+17;2006;NPE;Rice, Master. Eugene;secured;50K-100K;D;Corp
+18;2006;NPE;Williams, Mr. Charles Eugene;secured;100K-500K;C;Corp
+19;2008;NPE;Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele);unsecured;0-10K;A;Corp
+20;2008;NPE;Masselmani, Mrs. Fatima;unsecured;100K-500K;A;Individual
+21;2008;NPE;Fynney, Mr. Joseph J;secured;35.0;D;Individual
+22;2011;PE;Beesley, Mr. Lawrence;secured;34.0;A;Individual
+23;2011;PE;"McGowan, Miss. Anna ""Annie""";unsecured;0-10K;D;Corp
+24;2011;PE;"McGowan, Miss. Anna ""Annie""";secured;100K-500K;C;Corp
+25;2015;PE;Palsson, Miss. Torborg Danira;unsecured;0-10K;B;Corp
+26;2015;PE;Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson);unsecured;50K-100K;A;Corp
+27;2015;PE;Emir, Mr. Farred Chehab;secured;10K-50K;D;Corp
+28;2015;NPE;Emir, Mr. Farred Chehab;secured;10K-50K;B;Corp
+29;2015;PE;Emir, Mr. Farred Chehab;unsecured;10K-50K;C;Corp
