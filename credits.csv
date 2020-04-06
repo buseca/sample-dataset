@@ -7,8 +7,8 @@ Id,YearOfDefault,PE/NPE,Debtor,Secured/Unsecured,GBV,LegalStatus,Corporate,Indiv
 6,2003,NPE,Moran,secured,10K-50K,B,Corp
 7,2003,NPE,McCarthy,secured,0-10K,C,Individual
 8,2005,NPE,McCarthy,secured,50K-100K,D,Individual
-9,2005,PE,McCarthy,unsecured,50K-100K,D,Corp
-10,2005,PE,Nasser,unsecured,14.00-10K,D,Corp
+9,2005,NPE,McCarthy,unsecured,50K-100K,D,Individual
+10,2005,NPE,Nasser,unsecured,14.00-10K,D,Individual
 11,2005,PE,Sandstrom,unsecured,10K-50K,C,Corp
 12,2005,PE,Bonnell,unsecured,50K-100K,A,Corp
 13,2005,PE,Saundercock,secured,0-10K,A,Corp
@@ -18,13 +18,13 @@ Id,YearOfDefault,PE/NPE,Debtor,Secured/Unsecured,GBV,LegalStatus,Corporate,Indiv
 17,2006,NPE,Rice,secured,50K-100K,D,Corp
 18,2006,NPE,Williams,secured,100K-500K,C,Corp
 19,2008,NPE,Vander Planke,unsecured,0-10K,A,Corp
-20,2008,NPE,Masselmani,unsecured,100K-500K,A,Individual
+20,2008,PE,Masselmani,unsecured,100K-500K,A,Corp
 21,2008,NPE,Fynney,secured,0-10K,D,Individual
 22,2011,PE,Beesley,secured,0-10K,A,Individual
 23,2011,PE,McGowan,unsecured,0-10K,D,Corp
 24,2011,PE,McGowan,secured,100K-500K,C,Corp
 25,2015,PE,Palsson,unsecured,0-10K,B,Corp
-26,2015,PE,Asplund,unsecured,50K-100K,A,Corp
+26,2015,PE,Asplund,unsecured,50K-100K,D,Corp
 27,2015,PE,Emir,secured,10K-50K,D,Corp
 28,2015,NPE,Emir,secured,10K-50K,B,Corp
 29,2015,PE,Emir,unsecured,10K-50K,C,Corp
