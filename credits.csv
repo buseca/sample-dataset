@@ -8,7 +8,7 @@ Id,YearOfDefault,PE/NPE,Debtor,Secured/Unsecured,GBV,LegalStatus,Corporate,Indiv
 7,2003,NPE,McCarthy,secured,0-10K,C,Individual
 8,2005,NPE,McCarthy,unsecured,10K-50K,B,Individual
 9,2005,NPE,McCarthy,unsecured,10K-50K,B,Individual
-10,2005,NPE,Nasser,unsecured,14.00-10K,D,Individual
+10,2005,NPE,Nasser,unsecured,100K-500K,D,Individual
 11,2005,PE,Sandstrom,unsecured,10K-50K,C,Corp
 12,2005,PE,Bonnell,unsecured,50K-100K,A,Corp
 13,2005,PE,Saundercock,secured,0-10K,A,Corp
